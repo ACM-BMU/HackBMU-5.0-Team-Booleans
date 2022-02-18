@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "26468995864",
+    "project_id": "professor-f289f",
+    "storage_bucket": "professor-f289f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26468995864:android:9aad4c8faeb69e8eb2446d",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26468995864-185a7qla5h9lh3b635g24oiab6f9gcn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathon",
+            "certificate_hash": "2be26e2f83594c76a55730450a0111a1a360bb71"
+          }
+        },
+        {
+          "client_id": "26468995864-i84bck7s659uonu2t1folu1i820hmu7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MaoAYiRTmak2Cd3SqfYD2XndfTmdUlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26468995864-i84bck7s659uonu2t1folu1i820hmu7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
