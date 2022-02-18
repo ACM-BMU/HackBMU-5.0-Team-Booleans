@@ -22,7 +22,7 @@ class _ProfileState extends State<Profile> {
     return Scaffold(
       body:SafeArea(
         child: Center(
-          
+
           child: Column(
 
             mainAxisAlignment: MainAxisAlignment.start,
@@ -44,12 +44,29 @@ class _ProfileState extends State<Profile> {
 
                 ],
               ),
-              CircleAvatar(backgroundImage: NetworkImage(constant.img),),
-              Text(constant.name),
-              Text(constant.email),
+             Padding(padding: EdgeInsets.fromLTRB(150,30,100,10),
+              child : CircleAvatar(backgroundImage: NetworkImage(constant.img),radius: 40,),),
+              SizedBox(
+                height: 20,
+              ),
+              Padding(padding: EdgeInsets.fromLTRB(150, 30, 100, 1),
+              child: Text(constant.name, textAlign: TextAlign.center,style: GoogleFonts.poppins(
+                fontSize: 30
+              ),),),
+              SizedBox(height: 20,),
+          Padding(padding: EdgeInsets.fromLTRB(130, 1, 100, 10),
+            child:
+              Text(constant.email,style: GoogleFonts.poppins(
+                  fontSize: 20
+              )),),
+              SizedBox(height: 40,),
+          Padding(padding: EdgeInsets.fromLTRB(130, 30, 100, 10),
+            child:
               ElevatedButton(onPressed: () {
                 SignOutMethod(context);
-              }, child: Text("SIGN OUT"))
+              }, child: Text("SIGN OUT",style: GoogleFonts.poppins(
+                fontSize: 20
+              ),)))
             ],
           ),
         ),

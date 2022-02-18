@@ -68,7 +68,7 @@ class _MyHomePageState extends State<Home> {
           IconButton(onPressed: (){ _launch();} ,
         icon: Icon(Icons.face))    ],
 
-        centerTitle: true,title: Text("PROFESSOR",style: GoogleFonts.poppins(
+        centerTitle: true,title: Text("SCHOOLOGY",style: GoogleFonts.poppins(
 
         fontSize: 30,
         color:Colors.white,

@@ -42,7 +42,7 @@ class Class extends StatelessWidget{
 
                  Container(
                    child: Column(
-                   children: [Text('ENGLISH',textAlign: TextAlign.left,
+                   children: [Text('English',textAlign: TextAlign.left,
 
 
                   style: GoogleFonts.poppins(
@@ -113,7 +113,7 @@ class Class extends StatelessWidget{
 
                     Container(
                       child: Column(
-                          children: [Text('ENGLISH',textAlign: TextAlign.left,
+                          children: [Text('DSA',textAlign: TextAlign.left,
 
 
                             style: GoogleFonts.poppins(
@@ -121,7 +121,7 @@ class Class extends StatelessWidget{
                               color: Colors.white,
                             ),
                           ),
-                            Text('YASH SIR',textAlign:TextAlign.left,style: GoogleFonts.poppins(
+                            Text('B.Babu',textAlign:TextAlign.left,style: GoogleFonts.poppins(
                               fontSize: 20,
                             ),),
                           ]),
@@ -185,7 +185,7 @@ class Class extends StatelessWidget{
 
                     Container(
                       child: Column(
-                          children: [Text('ENGLISH',textAlign: TextAlign.left,
+                          children: [Text('OS',textAlign: TextAlign.left,
 
 
                             style: GoogleFonts.poppins(
@@ -193,7 +193,7 @@ class Class extends StatelessWidget{
                               color: Colors.white,
                             ),
                           ),
-                            Text('YASH SIR',textAlign:TextAlign.left,style: GoogleFonts.poppins(
+                            Text('S.Swami',textAlign:TextAlign.left,style: GoogleFonts.poppins(
                               fontSize: 20,
                             ),),
                           ]),

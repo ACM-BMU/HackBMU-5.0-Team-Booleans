@@ -5,6 +5,7 @@ import 'package:hackathon/Screens/Options.dart';
 import 'package:hackathon/Screens/signup.dart';
 
 import 'Screens/class.dart';
+import 'Screens/home.dart';
 import 'Screens/profile.dart';
 import 'localdb.dart';
 
@@ -56,7 +57,7 @@ class _MyAppState extends State<MyApp> {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: isLogIn ? Class(): Signup(),
+      home: isLogIn ? Home(): Signup(),
     );
   }
 }
