@@ -18,7 +18,7 @@ app.add_middleware(
 
 @app.get('/score')
 def get_form(request: Request):
-    result = "download your file"
+    result = "check your score"
     return  result
     
 
