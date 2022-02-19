@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div>
 <div align="center">
- <a href="https://github.com/othneildrew/Best-README-Template" style="text-decoration:none">  <h1 align="center">[Schology](https://booleans.netlify.app/)</h1></a>
+ <a href="https://github.com/othneildrew/Best-README-Template" style="text-decoration:none">  <h1 align="center"> Schology</h1></a>
 
   <p align="center">
     If you want to teach people a new way of thinking, don’t bother trying to teach them. </br>
@@ -9,7 +9,7 @@
     <br />
   </p>
 </div>
-## About The Project
+
 
 # Submission by Team !Booleans for Hack BMU 5.0
 Entry of !Booleans, from SRM Institute of Science and Technology, Kattankulathur, to Hack BMU 5.0.
@@ -64,6 +64,6 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 <h2 align= "left"><b>Our Product can be viewed at:-</b></h2>
 
-- Website Link : 
+- Website Link : [Booleans](https://booleans.netlify.app/) 
 - Youtube Demo : 
 
