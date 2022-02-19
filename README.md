@@ -1,4 +1,4 @@
-# SCHOOLOGY : https://booleans.netlify.app/
+# SCHOOLOGY
 # Submission by Team !Booleans for Hack BMU 5.0
 Entry of !Booleans, from SRM Institute of Science and Technology, Kattankulathur, to Hack BMU 5.0.
 
@@ -12,12 +12,12 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 <h2 align= "left"><b>Website in a Print view</b></h2>
 
 <p align="left">
-<Website in a Print view>
+<details>
 <img width=40% src="screenshot/Home.png"> &ensp;
 <img width=40% src="screenshot/Screenshot (367).png"> &ensp;
 <img width=40% src="screenshot/Screenshot (371).png"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-18 at 6.12.12 PM.jpeg"> &ensp;  
-</Website in a Print view>
+</details>
   
 <h2 align= "left"><b>Product as a Moblie Application</b></h2>
 
