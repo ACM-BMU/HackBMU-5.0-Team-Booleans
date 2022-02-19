@@ -1,0 +1,14 @@
+.profile-sidebar{
+    .Profileprogress{
+        max-width: 150px;
+        @extend .center-all;
+        .CircularProgressbar {
+            .CircularProgressbar-text{
+                fill: $modalTextHighlight;
+            }
+            .CircularProgressbar-path{
+                stroke: $main;
+            }
+        }
+    }
+}

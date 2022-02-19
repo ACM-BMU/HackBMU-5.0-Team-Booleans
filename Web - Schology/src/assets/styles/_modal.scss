@@ -1,0 +1,28 @@
+.chooseImage{
+    width: 300px;
+}
+.type{
+    .type-slider-btn{
+        margin: 0 !important;
+        @extend .center-all;
+        justify-content: space-around !important;
+        transition-duration: 0.25s;
+        padding: 0 !important;
+        gap:10px;
+        label{
+            font-size: 24px;
+        }
+        input{
+            cursor: pointer;
+            margin: 0 !important;
+            height: 2em !important;
+            width: 5em;
+            box-shadow: none;
+            background-color: $lighModeBkg;
+            border-color: $lightModeBorder;
+            &:checked{
+                background-color: $main;
+            }
+        }
+    }
+}

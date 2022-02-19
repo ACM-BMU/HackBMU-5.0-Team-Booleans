@@ -1,0 +1,60 @@
+{
+    "UID1" : {
+        "name" : "",
+        "email" : "",
+        "id": "",
+        "type": "Teacher",
+        "islogged": false,
+        "darkMode": false, 
+        "classRooms": [
+            {      
+                "id": "",
+                "meetLink": "",
+                "assignments": [
+                    {
+                        "id": "",
+                        "deadline" : "",
+                        "uploads": [
+                            {
+                                "Fileid": "",
+                                "studentID": "",
+                                "MatchScore": ""
+                            }
+                        ]
+                    }
+                ],
+                "notes": [
+                    {
+                        
+                    }
+                ]
+            }
+        ]
+    },
+    "UID2" :{
+        "name" : "",
+        "email" : "",
+        "id": "",
+        "type": "Student", 
+        "islogged": false,
+        "darkMode": false, 
+        "classRooms": [
+            {      
+                "id": "",
+                "meetLink": "",
+                "assignments": [
+                    {
+                        "id": "",
+                        "uploads": [
+                            {
+                                "Fileid": "",
+                                "studentID": "UID2",
+                                "MatchScore": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

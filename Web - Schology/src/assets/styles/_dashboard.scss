@@ -1,0 +1,14 @@
+.dashboard{
+    height: calc(100% - 64px);
+    .dashImage{
+        width: 300px;
+        position: absolute;
+        bottom: -40px;
+        right: -50px;
+        transform: rotate(10deg);
+    }
+}
+.dashboard-content{
+
+    @extend .center-all;
+}

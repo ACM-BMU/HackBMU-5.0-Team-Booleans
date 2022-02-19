@@ -1,0 +1,210 @@
+.selectedclass{
+    @extend .center-all;
+    @extend .wh-100;
+    max-height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    &>div{
+        max-width: 1200px;
+    }
+    .ClassNav{
+        a{
+            color: $lightModetext;
+           &.active{
+               color: var(--theme-color) !important;
+            }
+        }
+    }   
+    .class-banner{
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+        @extend .center-all;
+        color:#fff;
+        background: var(--theme-color);
+        border-radius: 0.5rem;
+        @extend .wh-100;
+        max-height: 15rem;
+        // max-width: 1000px;
+        .class-name{
+            font-family: Poppins-Medium;
+            font-size: 3em;
+        } 
+        .join-meet{
+            max-width: 100px;
+            color: #fff;
+            background-color: transparent;
+            border: none;
+            border-radius: 0.5rem;
+            padding: 10px;
+            box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 24px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+        }
+    }
+
+    .assignments{
+        @extend .center-all;
+        //@extend .wh-100;
+        .assignments-list{
+            @extend .wh-100;
+            @extend .center-all;
+            flex-direction: column;
+           // overflow-y: scroll;
+           // overflow-x: hidden;
+            gap: 20px;
+            // padding: 0 10px 150px 10px;
+            // max-height: 400px;
+            // justify-content: start !important;
+        }
+        .body{
+            box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px ;
+            border: 1px solid $lightModeBorder;
+            @extend .center-all;
+            @extend .wh-100;
+            min-height: 4.5rem;
+            &.noHeight{
+                min-height: 2rem !important
+            }
+            border-radius: 8px;
+            background:#fff;
+            transition: min-height 1s ease;
+            .upload-types{
+                @extend .center-all;
+                gap:10px;
+                //transform: scale(0.6);
+                .view-all{
+                    background: transparent;
+                    border: none;
+                    text-decoration:  underline;
+                    color:  var(--theme-color);
+                    box-shadow: none;
+                }
+            }
+            .highlight-icon-bkg{
+                @extend .center-all;
+                background: var(--theme-color);
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                color:#fff;
+               }
+               .deadline-progress-bar{
+                   max-width: 60px;
+               }
+        }
+        .create-new-assignment{
+            @extend .center-all;
+            @extend .wh-100;
+            flex-direction: column;
+            .calendar{
+                transform: scale(0.7);
+                position: absolute;
+                right: 0%;
+                top: 50%;
+                transform: scale(0.7) translate(-0%,-100%);
+                .react-calendar__tile--active{
+                    background: var(--theme-color) !important;
+                }
+            }
+            .select-icon{
+                color: var(--theme-color);
+                cursor: pointer;
+            }
+            input{
+                box-shadow: none !important;
+            }
+            .features{
+                .feature{
+                    @extend .center-all;
+                }
+            }
+        }
+        .add-assignment-btn{
+            outline: none !important;
+            border: none !important;
+            background-color: var(--theme-color) !important;
+            box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+        }
+        .uploads{
+            @extend .center-all;
+            @extend .wh-100;
+            .body{
+                @extend .center-all;
+                justify-content: start !important;
+                flex-direction: column;
+                gap:20px;
+                min-height: 2.5rem;
+                border-top-left-radius: 0;
+                border-top-right-radius: 0;
+                max-width: 80%;
+                border: 1px solid #dadada;
+                transition: all 0.3s ease;
+                max-height: 400px;
+                overflow: auto;
+                overflow-x: hidden;
+                padding: 10px;
+                &.view-all{
+                    min-height: 4.5rem !important;
+                }
+                .export{
+                    color: var(--theme-color) !important;
+                    ins, span{
+                        cursor: pointer;
+                    }
+                }
+                .student-count{
+                    @extend .center-all;
+                    color: #fff;
+                    width: 20px;
+                    height: 20px;
+                    border-radius: 50%;
+                    background: var(--theme-color);
+                    font-size: 12px;
+                }
+                .student-uploads-list{
+                    @extend .wh-100;
+                    @extend .center-all;
+                    border: 1px solid #dadada;
+                    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+                    padding: 10px 0;
+                    div{
+                        @extend .center-all;
+                    }
+                }
+            }
+       
+           }
+           .see-description{
+               background: transparent;
+               padding: 0 !important;
+               color: var(--theme-color);
+               border: none;
+               box-shadow: none;
+           }
+        .assignment-icon{
+            height: 100%;
+            gap:15px;
+            @extend .center-all;
+            .time-left{
+                font-size: 14px !important;
+                white-space: nowrap;
+            }
+            .upload-file{
+                cursor: pointer;
+            }
+            .deadline-near{
+                color:$error-red;
+            }
+        }
+        .create-assignment{
+            @extend .center-all;
+            justify-content:  flex-start !important;
+            color: $lightModetext;
+            gap:10px;
+            .cancel-assignment{
+                color: $error-red;
+                cursor: pointer;
+            }
+            ins{
+                cursor: pointer;
+            }
+        }
+    }
+ }

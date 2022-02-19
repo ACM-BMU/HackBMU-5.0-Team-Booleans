@@ -1,0 +1,37 @@
+.pro-sidebar{
+    .pro-sidebar-inner{
+        background: $lighModeBkg !important;
+        border-left: 1px solid $lightModeBorder;
+        border-right: 1px solid $lightModeBorder;
+        .pro-sidebar-layout{
+            overflow-y: visible !important;
+            overflow-x: visible !important;
+        }
+    }
+    .pro-menu.shaped {
+        .pro-menu-item {
+            .pro-inner-item{
+                &:hover{
+                    color: $main;
+                }
+                .pro-icon-wrapper{
+                    background-color: #2b2b2b0f !important;
+                    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+                    .pro-icon{
+                        animation: none !important;
+                    }
+                }
+            }
+        }
+    }
+    .team-info{
+       background: transparent !important;
+     color:$main; 
+        box-shadow: none !important;
+        border: none;
+        padding: 0 5px;
+        &:hover,  &:active,  &:focus{
+            color:$main !important;
+        }
+    }
+}

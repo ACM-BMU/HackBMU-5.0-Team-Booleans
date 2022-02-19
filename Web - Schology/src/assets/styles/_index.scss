@@ -1,0 +1,88 @@
+
+@import './colors';
+@import './fonts.scss';
+@import './head';
+@import './dashboard';
+@import './sidebar';
+@import './modal';
+@import './alert';
+@import './class';
+@import './icons';
+@import './tooltip';
+@import './_profile-sidebar';
+@import './selectedclass';
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins-Regular;
+}
+li, a{
+    text-decoration: none !important;
+    list-style: none;
+    background: none;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    font-size: calc(14px + (16 - 14) * ((100vw - 300px) / (1600 - 300)));
+}
+.App{
+    width: 100%;
+    height: 100vh;
+    background: $lighModeBkg;
+    &.darkMode{
+        background: $darkModeBkg;
+    }
+}
+.wh-100{
+    height: 100%;
+    width: 100%;
+}
+.center-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+*::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+*::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: $lightModetext;
+}
+
+*::-webkit-scrollbar-thumb
+{
+    background-color: $lightModetext;
+}
+
+.auth{
+    @extend .center-all;
+    height:100%;
+    .authImage{
+        max-width:630px;
+        width: 100%;
+    }
+}
+.text-highlight{
+    color:$main;
+    cursor: pointer;
+    font-size:20px;
+}
+.JoinNow{
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    background: #ffc107;
+    padding: 7px;
+    box-shadow: 0.3rem 0.3rem black; // 0.5rem 0.5rem black, -0.5rem -0.5rem #ccc;
+}
+
