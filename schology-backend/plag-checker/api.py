@@ -11,7 +11,7 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins="*",
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -20,14 +20,13 @@ app.add_middleware(
 def get_form(request: Request):
     result = "check your score"
     return  result
-    
+
 
 @app.post('/score')
-async def post_form(request: Request,thres_hold: int = None,format:int = None):
-    os.mkdir("assignment")
+async def post_form(request: Request, thres_hold: int = None, format: str = None, assignmentID: str = None):
+    os.mkdir(assignmentID)
     arr = await request.json()
-    download.download(arr)
-    result = score.check_plagiarism("assignment",thres_hold,format)
-    shutil.rmtree("assignment")
+    download.download(arr ,assignmentID)
+    result = score.check_plagiarism(assignmentID, thres_hold,format)
+    shutil.rmtree(assignmentID)
     return {"result" : result}
-
