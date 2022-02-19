@@ -43,7 +43,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 - Webkit Speech recognition API
   
-- Python, Docker
+- Python, Docker , AWS
 
 - Firebase Storage.
   
