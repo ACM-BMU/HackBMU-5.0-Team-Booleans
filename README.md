@@ -9,20 +9,9 @@ Our Approach : We decided to come up with a Solution which makes the lives of st
 
 We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping students to grow there minds and learn online, teachers in maintaining student assignments and grading them, also taking care of young minds who are not able to go to school , we have a solution for all of them.
 
-<figure class='image-slider'
-		 data-spacing='0'			
-		 data-label1='Final'	
-		 data-label2='Process'>		
-<img width=40% src="screenshot/Home.png"> &ensp;
-<img width=40% src="screenshot/Screenshot (367).png"> &ensp;
-<img width=40% src="screenshot/Screenshot (371).png"> &ensp;
-<img width=40% src="screenshot/WhatsApp Image 2022-02-18 at 6.12.12 PM.jpeg"> &ensp;  
-</figure>
 
-
-<p align="left">
 <details>
-<summary><h2 align= "left"><b>Website in a Print view</b></h2></summary><details>
+<summary>Website in a Print view</summary><details>
 <img width=40% src="screenshot/Home.png"> &ensp;
 <img width=40% src="screenshot/Screenshot (367).png"> &ensp;
 <img width=40% src="screenshot/Screenshot (371).png"> &ensp;
@@ -30,9 +19,8 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 </details>
   
 
-<p align = "left">
 <details>
-<summary><h2 align= "left"><b>Product as a Moblie Application</b></h2></summary><details>
+<summary>Product as a Moblie Application</summary><details>
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.08 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.07 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.06 AM (1).jpeg"> &ensp;
