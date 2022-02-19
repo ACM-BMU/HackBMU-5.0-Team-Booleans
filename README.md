@@ -12,7 +12,7 @@
 
 
 # Submission by Team !Booleans for Hack BMU 5.0
-Entry of !Booleans, from SRM Institute of Science and Technology, Kattankulathur, to Hack BMU 5.0.
+Entry of !Booleans, from `SRM Institute of Science and Technology`, Kattankulathur, to Hack BMU 5.0.
 
 Open Innovation: An open-ended theme where the only restriction is your imagination. Build the ideas that you believe in and make a difference. It can either be hardware or software.
 Our Approach : We decided to come up with a Solution which makes the lives of students and teachers easy by availing them online schooling platform which provides various features in it.
@@ -21,6 +21,28 @@ Our Approach : We decided to come up with a Solution which makes the lives of st
 
 We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping students to grow there minds and learn online, teachers in maintaining student assignments and grading them, also taking care of young minds who are not able to go to school , we have a solution for all of them.
 
+### `Web Installation`
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ACM-BMU/HackBMU-5.0-Team-Booleans
+   ```
+
+2. Open the terminal enter 
+    ```
+    cd Web-Schology 
+    ```
+
+3. Install NPM packages
+   ```sh
+   npm install or npm install --force
+   ```
+4. Run the app 
+   ```js
+   npm start
+   ```
 
 <details>
 <summary>Website in a Print view</summary>
@@ -41,29 +63,46 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
  
 
 
-## Presentation
+## `Presentation`
 [PPT](https://www.canva.com/design/DAE4uj4iMtI/Cd1rZ3DQ_mwPQphD7C7nlw/edit)
 
 
 
 
 
-## Tech Stack
+## `Tech Stack`
 
-- eJS,CSS,Bootstrap
+|    **Web Frontend**    |       **Framework**      |                                    **Description**                                    |
+|:------------------:|:------------------------:|:-------------------------------------------------------------------------------------:|
+|         TSX        |         React JS         | Components made on typescript                                                         |
+| SCSS  | Custom & <br>React Bootstrap | Nested Styling is done using SCSS and inline<br>css styling through boostrap classes. |
+|        Redux       |        React-Redux       | To manage state of the application.   
+<br>
 
-- React JS
+|          **Mobile App**          	|        **Description**       	|
+|:--------------------------------:	|:----------------------------:	|
+| Webkit Speech Recognition API 	| AI Chat bot for the queries. 	|
+|              Flutter             	|    Animated UI components    	|
 
-- Webkit Speech recognition API
-  
-- Python, Docker , AWS
+<br>
 
-- Firebase Storage.
-  
-- Flutter for App . 
+| **Backend** 	| **Framework** 	|                             **Description**                            	|
+|:-----------:	|:-------------:	|:----------------------------------------------------------------------:	|
+|    Python   	|    Fast Api   	|  Give response to the given threshold,<br>format type and array of urls.  	|
+|   Firebase  	|       -       	| Google Authentication, Realtime Firestore<br> database and storage bucket. 	|                                                |
+
+<br>
+
+| **Deployement** 	| **Services** 	|
+|:---------------:	|:------------:	|
+|   Web Frontend  	|    Netlify   	|
+|     Backend     	|      AWS     	|
+
+<br>
 
 <h2 align= "left"><b>Our Product can be viewed at:-</b></h2>
 
 - Website Link : [Booleans](https://booleans.netlify.app/) 
 - Youtube Demo : 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
