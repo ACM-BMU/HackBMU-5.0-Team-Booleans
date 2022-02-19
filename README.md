@@ -12,7 +12,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 <p align="left">
 <details>
-  <summary><h2 align= "left"><b>Website in a Print view</b></h2></summary><details>
+<summary><h2 align= "left"><b>Website in a Print view</b></h2></summary><details>
 <img width=40% src="screenshot/Home.png"> &ensp;
 <img width=40% src="screenshot/Screenshot (367).png"> &ensp;
 <img width=40% src="screenshot/Screenshot (371).png"> &ensp;
@@ -22,7 +22,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 <p align = "left">
 <details>
-  <summary><h2 align= "left"><b>Product as a Moblie Application</b></h2></summary><details>
+<summary><h2 align= "left"><b>Product as a Moblie Application</b></h2></summary><details>
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.08 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.07 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.06 AM (1).jpeg"> &ensp;
