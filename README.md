@@ -20,6 +20,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 </details>
   
 <h2 align= "left"><b>Product as a Moblie Application</b></h2>
+<p align = "left">
 <App Screenshots>
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.08 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.07 AM.jpeg"> &ensp;
