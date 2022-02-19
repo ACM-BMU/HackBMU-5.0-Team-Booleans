@@ -14,8 +14,8 @@
 # Submission by Team !Booleans for Hack BMU 5.0
 Entry of !Booleans, from `SRM Institute of Science and Technology`, Kattankulathur, to Hack BMU 5.0.
 
-Open Innovation: An open-ended theme where the only restriction is your imagination. Build the ideas that you believe in and make a difference. It can either be hardware or software.
-Our Approach : We decided to come up with a Solution which makes the lives of students and teachers easy by availing them online schooling platform which provides various features in it.
+`Open Innovation`: An open-ended theme where the only restriction is your imagination. Build the ideas that you believe in and make a difference. It can either be hardware or software.<br><br>
+`Our Approach`: We decided to come up with a Solution which makes the lives of students and teachers easy by availing them online schooling platform which provides various features in it like using our `plaigrism checker` teacher can detect the copied assignment instantly through color coding.
 
 <h2 align= "left"><b>Our Product</b></h2>
 
@@ -63,11 +63,7 @@ _Below is an example of how you can instruct your audience on installing and set
  
 
 
-## `Presentation`
-[PPT](https://www.canva.com/design/DAE4uj4iMtI/Cd1rZ3DQ_mwPQphD7C7nlw/edit)
-
-
-
+## `Presentation` [PPT](https://www.canva.com/design/DAE4uj4iMtI/Cd1rZ3DQ_mwPQphD7C7nlw/edit)
 
 
 ## `Tech Stack`
