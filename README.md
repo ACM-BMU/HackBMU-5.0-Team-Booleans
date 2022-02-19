@@ -9,24 +9,25 @@ Our Approach : We decided to come up with a Solution which makes the lives of st
 
 We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping students to grow there minds and learn online, teachers in maintaining student assignments and grading them, also taking care of young minds who are not able to go to school , we have a solution for all of them.
 
-<h2 align= "left"><b>Website in a Print view</b></h2>
 
 <p align="left">
 <details>
+  <summary><h2 align= "left"><b>Website in a Print view</b></h2></summary><details>
 <img width=40% src="screenshot/Home.png"> &ensp;
 <img width=40% src="screenshot/Screenshot (367).png"> &ensp;
 <img width=40% src="screenshot/Screenshot (371).png"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-18 at 6.12.12 PM.jpeg"> &ensp;  
 </details>
   
-<h2 align= "left"><b>Product as a Moblie Application</b></h2>
+
 <p align = "left">
-<App Screenshots>
+<details>
+  <summary><h2 align= "left"><b>Product as a Moblie Application</b></h2></summary><details>
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.08 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.07 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.06 AM (1).jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.06 AM.jpeg"> &ensp;
-</App Screenshots> 
+</details> 
  
 
 
