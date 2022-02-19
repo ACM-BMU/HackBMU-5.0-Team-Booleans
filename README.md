@@ -25,7 +25,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 
 ## Presentation
-[PPT]()
+[PPT](https://www.canva.com/design/DAE4uj4iMtI/Cd1rZ3DQ_mwPQphD7C7nlw/edit)
 
 
 
