@@ -9,6 +9,8 @@
     <br />
   </p>
 </div>
+## About The Project
+
 # Submission by Team !Booleans for Hack BMU 5.0
 Entry of !Booleans, from SRM Institute of Science and Technology, Kattankulathur, to Hack BMU 5.0.
 
