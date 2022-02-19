@@ -1,4 +1,4 @@
-# [SCHOOLOGY](https://booleans.netlify.app/)
+
 <div align="center">
  <a href="https://github.com/othneildrew/Best-README-Template" style="text-decoration:none">  <h1 align="center">Schology</h1></a>
 
