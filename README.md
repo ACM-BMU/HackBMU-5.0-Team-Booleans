@@ -9,6 +9,7 @@
     <br />
   </p>
 </div>
+## About The Project
 
 # Submission by Team !Booleans for Hack BMU 5.0
 Entry of !Booleans, from SRM Institute of Science and Technology, Kattankulathur, to Hack BMU 5.0.
@@ -22,7 +23,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 
 <details>
-<summary>Website in a Print view</summary><details>
+<summary>Website in a Print view</summary>
 <img width=40% src="screenshot/Home.png"> &ensp;
 <img width=40% src="screenshot/Screenshot (367).png"> &ensp;
 <img width=40% src="screenshot/Screenshot (371).png"> &ensp;
@@ -31,7 +32,7 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
   
 
 <details>
-<summary>Product as a Moblie Application</summary><details>
+<summary>Product as a Moblie Application</summary>
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.08 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.07 AM.jpeg"> &ensp;
 <img width=40% src="screenshot/WhatsApp Image 2022-02-19 at 11.28.06 AM (1).jpeg"> &ensp;
