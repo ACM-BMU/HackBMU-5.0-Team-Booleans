@@ -13,15 +13,15 @@ We !Booleans present before you,<b>"SCHOOLOGY"</b>. We will be e helping student
 
 <p align="left">
 
-<img width=40% src="Screenshots/Home.jpg"> &ensp;
-<img width=40% src="Screenshots/ChatBot.jpeg"> &ensp;
+<img width=40% src="Screenshots/Home.png"> &ensp;
+<img width=40% src="Screenshots/Screenshot (367).png"> &ensp;
   
 <h2 align= "left"><b>Product as a Moblie Application</b></h2>
 
 <p align="left">
 
-<img width=40% src="Screenshots/Home.jpg"> &ensp;
-<img width=40% src="Screenshots/ChatBot.jpeg"> &ensp;  
+<img width=40% src="Screenshots/Screenshot (371).png"> &ensp;
+<img width=40% src="Screenshots/WhatsApp Image 2022-02-18 at 6.12.12 PM.jpeg"> &ensp;  
 
 
 ## Presentation
