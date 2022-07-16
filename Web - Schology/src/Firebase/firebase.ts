@@ -5,13 +5,20 @@ import { getStorage, ref, uploadBytes, uploadBytesResumable, getDownloadURL, lis
 import { getMessaging, getToken, onMessage } from "firebase/messaging";
 
 const firebaseApp = initializeApp({
-apiKey: "AIzaSyCKGpStcpxpf1sZUEZ9Cq7JAjWXQ2iGACM",
-  authDomain: "professor-f289f.firebaseapp.com",
-  projectId: "professor-f289f",
-  storageBucket: "professor-f289f.appspot.com",
-  messagingSenderId: "26468995864",
-  appId: "1:26468995864:web:3daf09950ab41203b2446d",
-  measurementId: "G-WP38Q2FV57"
+  apiKey: "AIzaSyCzyBMnBYDM__qUq6k-Lx45FIcqzaOI6Ls",
+
+  authDomain: "schology-d4330.firebaseapp.com",
+
+  projectId: "schology-d4330",
+
+  storageBucket: "schology-d4330.appspot.com",
+
+  messagingSenderId: "213403214903",
+
+  appId: "1:213403214903:web:77adbfa45704f2c53e8bb2",
+
+  measurementId: "G-BKHXYM5YC6"
+
 });
 
 const db = getFirestore();
