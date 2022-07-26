@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div>
 <div align="center">
- <a href="https://github.com/othneildrew/Best-README-Template" style="text-decoration:none">  <h1 align="center"> Schology</h1></a>
+ <a href="https://booleans.netlify.app/" style="text-decoration:none">  <h1 align="center"> Schology</h1></a>
 
   <p align="center">
     If you want to teach people a new way of thinking, don’t bother trying to teach them. </br>
